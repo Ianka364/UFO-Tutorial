@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Montilla_Ian_DIG3480_Tutorial1.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
